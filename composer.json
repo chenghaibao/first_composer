@@ -1,7 +1,7 @@
 {
     "name": "bao/plan",
     "description": "plan",
-	"type": "project",
+	"type": "library",
 	"license": "MIT",
     "authors": [
         {
