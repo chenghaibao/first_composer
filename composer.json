@@ -1,0 +1,20 @@
+{
+    "name": "bao/plan",
+    "description": "plan",
+ "type": "project",
+ "licence": "MIT",
+    "authors": [
+        {
+            "name": "bao",
+            "email": "837098975@qq.com"
+        }
+    ],
+    "require": {
+  "php":">=7.0.0"
+ },
+ "autoload": {
+  "psr-4":{
+   "Tools\\":"src/Tools"
+  }
+ }
+}
