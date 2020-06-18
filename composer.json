@@ -1,8 +1,8 @@
 {
     "name": "bao/plan",
     "description": "plan",
- "type": "project",
- "license": "MIT",
+	"type": "project",
+	"license": "MIT",
     "authors": [
         {
             "name": "bao",
@@ -10,11 +10,11 @@
         }
     ],
     "require": {
-  "php":">=7.0.0"
- },
- "autoload": {
-  "psr-4":{
-   "Tools\\":"src/Tools"
-  }
- }
+		"php":">=7.0.0"
+	},
+	"autoload": {
+		"psr-4":{
+			"Tools\\":"src/"
+		}
+	}
 }
